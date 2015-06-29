@@ -1,7 +1,7 @@
 <?php
 //$toto=$_SERVER['argv'][1];
 
-//cho  $toto  he he;
+//cho  $toto  he rien he;
 
 date_default_timezone_set('Europe/Paris');
 
