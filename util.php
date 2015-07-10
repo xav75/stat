@@ -1,7 +1,7 @@
 <?php
 // $toto=$_SERVER['argv'][1];
 //  ,SQLITE3_OPEN_READWRITE
-// echo  $toto;
+//          echo  $toto;
 
 date_default_timezone_set('Europe/Paris');
 
